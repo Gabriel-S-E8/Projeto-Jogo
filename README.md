@@ -9,3 +9,7 @@ o jogo ele tem um tema de zumbis ambientado em uma cidadezinha onde se vc chegar
 
 ## Tela do jogador 
 ![image](https://github.com/Gabriel-S-E8/Projeto-Jogo/blob/main/Print%202%20.png)
+
+## Centro da Cidade
+![image](https://github.com/Gabriel-S-E8/Projeto-Jogo/blob/main/print%201.png)
+
