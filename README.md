@@ -62,7 +62,7 @@ public class SimpleJump : MonoBehaviour
     }
 }
 ```
-
+<img align="right" alt="Ippo" height="120" width="120" src="Assets/hajime-no-ippo-ippo.gif">
 ## Dash
 Criei uma funcinalidade para que quando o usuario clicar com o botaão do mouse o personagem deve dar um dash modificando dentro do codigo de controle de personagem que ja existia 
 ```csharp
@@ -85,4 +85,4 @@ IEnumerator Dash()
     transform.position = endPosition; // Garante que o personagem chegue na posição final
 }
 ```
-
+<img align="right" alt="Ippo" height="120" width="120" src="Assets/hajime-no-ippo-ippo.gif">
