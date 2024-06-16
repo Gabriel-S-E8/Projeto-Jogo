@@ -62,7 +62,7 @@ public class SimpleJump : MonoBehaviour
     }
 }
 ```
-![Demonstração do jogo](pulo-gif.gif)
+![Alt text](https://github.com/Gabriel-S-E8/Projeto-Jogo/blob/main/gif%20pulo.gif)
 ## Dash
 Criei uma funcinalidade para que quando o usuario clicar com o botaão do mouse o personagem deve dar um dash modificando dentro do codigo de controle de personagem que ja existia 
 ```csharp
