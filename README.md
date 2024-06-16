@@ -85,4 +85,5 @@ IEnumerator Dash()
     transform.position = endPosition; // Garante que o personagem chegue na posição final
 }
 ```
+![Alt text](https://github.com/Gabriel-S-E8/Projeto-Jogo/blob/main/gif%20dash.gif)
 
